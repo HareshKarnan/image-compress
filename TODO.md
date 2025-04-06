@@ -38,7 +38,7 @@ I want to build a website that takes as input an image and compresses it by half
 - [x] Validate compression quality and file size reduction
 
 ### 6. Deployment and Documentation
-- [ ] Deploy the website to a hosting service
+- [x] Deploy the website to a hosting service (GitHub Pages)
 - [ ] Add usage instructions and documentation
 - [ ] Implement analytics to track usage
 - [ ] Add privacy policy and terms of service
@@ -57,4 +57,5 @@ I want to build a website that takes as input an image and compresses it by half
 - ✅ App.jsx component has been implemented with image compression functionality
 - ✅ Image upload, compression, and download features are working
 - ✅ UI is clean and user-friendly with proper error handling
-- Next steps: Consider adding batch processing and custom compression controls
+- ✅ Website deployed to GitHub Pages at https://hareshkarnan.github.io/image-compress/
+- Next steps: Add documentation and consider implementing batch processing
