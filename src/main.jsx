@@ -15,10 +15,7 @@ try {
         <App />
       </HashRouter>
     </React.StrictMode>
-  ) )
-
-
-
-}  console.error('Error rendering app:', error)} catch (error) {} catch (error) {
+  )
+} catch (error) {
   console.error('Error rendering app:', error)
 }
