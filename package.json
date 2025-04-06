@@ -2,6 +2,7 @@
   "name": "imagewebsite",
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://hareshkarnan.github.io/image-compress/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
