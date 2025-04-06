@@ -58,4 +58,9 @@ I want to build a website that takes as input an image and compresses it by half
 - ✅ Image upload, compression, and download features are working
 - ✅ UI is clean and user-friendly with proper error handling
 - ✅ Website deployed to GitHub Pages at https://hareshkarnan.github.io/image-compress/
-- Next steps: Add documentation and consider implementing batch processing
+- ✅ Vite configuration updated for HashRouter
+
+### Next Steps
+- [ ] Add usage instructions and documentation
+- [ ] Implement batch processing multiple images
+- [ ] Add custom compression level controls

@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://hareshkarnan.github.io/image-compress/',
+  base: '', // or './' for relative paths
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
